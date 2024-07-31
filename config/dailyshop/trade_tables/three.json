@@ -1,0 +1,495 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "minecraft:emerald",
+    "count": {
+      "type": "constant",
+      "count": 3
+    }
+  },
+  "output": [
+    {
+      "item": "comforts:sleeping_bag_white",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "comforts:sleeping_bag_light_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "comforts:sleeping_bag_red",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "comforts:sleeping_bag_pink",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "comforts:sleeping_bag_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "comforts:sleeping_bag_black",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:shovel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:white_raincoat",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:light_blue_raincoat",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:red_raincoat",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:pink_raincoat",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:blue_raincoat",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:black_raincoat",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:white_rain_boots",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:light_blue_rain_boots",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:red_rain_boots",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:pink_rain_boots",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:blue_rain_boots",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:black_rain_boots",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "herbalbrews:jug",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "immersive_aircraft:sail",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:oak_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:spruce_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:birch_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:jungle_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:acacia_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:dark_oak_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:cherry_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:mangrove_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:loom",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:smoker",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:blast_furnace",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:cartography_table",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:fletching_table",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:grindstone",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:smithing_table",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:stonecutter",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:composter",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:campfire",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:bookshelf",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:jukebox",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:slime_block",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:raw_iron",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:raw_gold",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:quartz",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:leather_horse_armor",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:iron_blinds",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:botanist_workbench",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "automobility:auto_mechanic_table",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "automobility:slope",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "bakery:cake_stand",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "barteringstation:bartering_station",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "bitsandchisels:iron_chisel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "bitsandchisels:blueprint",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "chimes:iron_chimes",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "chimes:copper_chimes",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "chipped:botanist_workbench",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "chipped:loom_table",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    }
+  ]
+}

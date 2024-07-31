@@ -1,0 +1,24 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:grass_block",
+    "item:minecraft:birch_button",
+    "item:smallships:birch_cog",
+    "item:minecraft:nether_wart",
+    "item:supplementaries:stone_lamp",
+    "item:supplementaries:hourglass",
+    "item:bbb:brazier",
+    "item:supplementaries:end_stone_lamp",
+    "item:bbb:spruce_beam_stairs",
+    "item:minecraft:birch_slab",
+    "item:minecraft:acacia_pressure_plate"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

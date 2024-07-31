@@ -1,0 +1,239 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "minecraft:emerald",
+    "count": {
+      "type": "constant",
+      "count": 2
+    }
+  },
+  "output": [
+    {
+      "item": "snowyspirit:gumdrop_black",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_brown",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_cyan",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_green",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_light_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_light_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_lime",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_magenta",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_orange",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_pink",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_purple",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_red",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_white",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_yellow",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:snow_globe",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:wild_ginger",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:wreath",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:candy_cane_block",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:ginger_flower",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:ginger_crate",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_door",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_frosted",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_slab",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_stairs",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_trapdoor",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    }
+  ]
+}

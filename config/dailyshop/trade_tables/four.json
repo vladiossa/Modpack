@@ -1,0 +1,1847 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "minecraft:emerald",
+    "count": {
+      "type": "constant",
+      "count": 4
+    }
+  },
+  "output": [
+    {
+      "item": "convenientdecor:white_plastic_shovel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:light_blue_plastic_shovel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:red_plastic_shovel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:pink_plastic_shovel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:blue_plastic_shovel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "convenientdecor:black_plastic_shovel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "vinery:apple_press",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "exposure:black_and_white_film",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "herbalbrews:copper_tea_kettle",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "trashcans:item_trash_can",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:sticky_piston",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:honey_block",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:hopper",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:daylight_detector",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:small_amethyst_bud",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:medium_amethyst_bud",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:large_amethyst_bud",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:amethyst_cluster",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "beautify:quartz_picture_frame",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "a_man_with_plushies:plush_box",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "automobility:automobile_assembler",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "automobility:steep_slope",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "bitsandchisels:wrench",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "brewery:silo_copper",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "candlelight:cooking_pot",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "candlelight:cooking_pan",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "candlelight:tool_rack",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "chimes:amethyst_chimes",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "chipped:glassblower",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "chipped:carpenters_table",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_black",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_brown",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_cyan",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_green",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_light_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_light_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_lime",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_magenta",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_orange",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_pink",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_purple",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_red",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_white",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gumdrop_yellow",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:snow_globe",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:wild_ginger",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:wreath",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:candy_cane_block",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:ginger_flower",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:ginger_crate",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_door",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_frosted",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_slab",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_stairs",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "snowyspirit:gingerbread_trapdoor",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:allay_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:axolotl_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:bat_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:bee_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:black_rabbit_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:blaze_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:brown_rabbit_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:camel_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:cat_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:cave_spider_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:chicken_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:cod_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:cold_frog_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:cow_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:creeper_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:dolphin_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:dragon_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:drowned_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:elder_guardian_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:enderman_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:endermite_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:evoker_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:frog_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:ghast_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:glow_squid_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:goat_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:guardian_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:hoglin_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:horse_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:husk_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:illusioner_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:iron_golem_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:killer_bunny_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:llama_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:magma_cube_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:mooshroom_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:ocelot_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:panda_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:parrot_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:phantom_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:pig_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:piglin_brute_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:piglin_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:pillager_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:polar_bear_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:pufferfish_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:ravager_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:red_fox_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:salmon_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:salt_rabbit_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:sheep_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:shulker_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:silverfish_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:skeleton_horse_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:skeleton_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:slime_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:sniffer_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:snow_golem_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:spider_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:squid_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:stray_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:strider_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:tadpole_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:toast_rabbit_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:turtle_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:vex_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:villager_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:vindicator_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:wandering_trader_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:warden_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:warm_frog_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:white_fox_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:white_rabbit_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:white_splotched_rabbit_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:witch_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:wither_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:wither_skeleton_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:wolf_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:yellow_rabbit_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:zoglin_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:zombie_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:zombie_villager_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "plushies:zombiefied_piglin_plushie",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_black",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_brown",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_cyan",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_default",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_green",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_light_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_light_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_lime",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_magenta",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_orange",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_pink",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_purple",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_red",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_white",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:fairy_lights_yellow",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_black",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_brown",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_cyan",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_green",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_light_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_light_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_lime",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_magenta",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_orange",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_pink",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_purple",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_red",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_white",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:frog_yellow",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_black",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_brown",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_cyan",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_default",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_green",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_light_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_light_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_lime",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_magenta",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_orange",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_pink",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_purple",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_red",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_white",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:hanging_lights_yellow",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_black",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_brown",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_cyan",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_green",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_light_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_light_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_lime",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_magenta",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_orange",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_pink",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_purple",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_red",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_white",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:mushroom_yellow",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_black",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_brown",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_cyan",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_green",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_light_blue",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_light_gray",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_lime",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_magenta",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_orange",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_pink",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_purple",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_red",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_white",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "nightlights:octopus_yellow",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_blue_glowshroom_terrarium",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_glowshroom_terrarium",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_yellow_glowshroom_terrarium",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_glowshroom_terrarium",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_tea_kettle",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_blank_paper_pile",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    }
+  ]
+}

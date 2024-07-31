@@ -1,0 +1,103 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "minecraft:emerald",
+    "count": {
+      "type": "constant",
+      "count": 9
+    }
+  },
+  "output": [
+    {
+      "item": "minecraft:diamond_horse_armor",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "bitsandchisels:smart_chisel",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:cute_pink_bicycle",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:cute_blue_bicycle",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:cute_purple_bicycle",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:cute_yellow_bicycle",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_retro_yellow_fridge",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_retro_green_fridge",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_retro_white_fridge",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_retro_black_fridge",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_retro_pink_fridge",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    }
+  ]
+}

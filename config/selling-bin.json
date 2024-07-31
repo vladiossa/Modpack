@@ -1,0 +1,667 @@
+{
+  "minecraft:wheat": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 4,
+    "sellAmount": 64
+  },
+  "minecraft:potato": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 2,
+    "sellAmount": 64
+  },
+  "minecraft:carrot": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:melon_slice": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 4,
+    "sellAmount": 64
+  },
+  "minecraft:pumpkin": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 8,
+    "sellAmount": 64
+  },
+  "minecraft:cactus": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 4,
+    "sellAmount": 64
+  },
+  "minecraft:beetroot": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 5,
+    "sellAmount": 64
+  },
+  "minecraft:cocoa_beans": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:bamboo": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:sugar_cane": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:kelp": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:glow_berries": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 5,
+    "sellAmount": 64
+  },
+  "minecraft:blaze_rod": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 5,
+    "sellAmount": 64
+  },
+  "minecraft:feather": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:leather": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:arrow": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 2,
+    "sellAmount": 64
+  },
+  "minecraft:gunpowder": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 8,
+    "sellAmount": 64
+  },
+  "minecraft:rotten_flesh": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 2,
+    "sellAmount": 64
+  },
+  "minecraft:ender_pearl": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 16
+  },
+  "minecraft:ghast_tear": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:prismarine_shard": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 4,
+    "sellAmount": 64
+  },
+  "minecraft:magma_cream": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 4,
+    "sellAmount": 64
+  },
+  "minecraft:bone": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 2,
+    "sellAmount": 64
+  },
+  "minecraft:slime_ball": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:spider_eye": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 4,
+    "sellAmount": 64
+  },
+  "bakery:strawberry": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "bakery:oat": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "candlelight:tomato": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "vinery:red_grape": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "vinery:white_grape": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "vinery:savanna_grapes_red": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "vinery:savanna_grapes_white": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "vinery:taiga_grapes_red": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "vinery:taiga_grapes_white": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "vinery:jungle_grapes_red": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "vinery:jungle_grapes_white": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "candlelight:lettuce": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "farmersdelight:cabbage": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "farmersdelight:tomato": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "farmersdelight:rice": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "farmersdelight:onion": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "supplementaries:flax": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:cobblestone": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 2,
+    "sellAmount": 64
+  },
+  "minecraft:blackstone": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:cobbled_deepslate": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:calcite": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:tuff": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:andesite": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:diorite": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:granite": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:sand": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:gravel": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:netherrack": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 2,
+    "sellAmount": 64
+  },
+  "minecraft:oak_log": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:spruce_log": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:birch_log": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:acacia_log": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:jungle_log": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:cherry_log": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:dark_oak_log": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:mangrove_log": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 64
+  },
+  "minecraft:soul_sand": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 4,
+    "sellAmount": 64
+  },
+  "minecraft:dirt": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:iron_ingot": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 20,
+    "sellAmount": 64
+  },
+  "minecraft:gold_ingot": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 24,
+    "sellAmount": 64
+  },
+  "minecraft:copper_ingot": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 18,
+    "sellAmount": 64
+  },
+  "minecraft:diamond": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 36,
+    "sellAmount": 64
+  },
+  "minecraft:salmon": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 10
+  },
+  "minecraft:cooked_salmon": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "minecraft:cod": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 10
+  },
+  "minecraft:cooked_cod": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "minecraft:tropical_fish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "minecraft:pufferfish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "minecraft:chicken": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 12
+  },
+  "minecraft:cooked_chicken": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 10
+  },
+  "minecraft:porkchop": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "minecraft:cooked_porkchop": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "minecraft:beef": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "minecraft:cooked_beef": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "minecraft:mutton": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "minecraft:cooked_mutton": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "minecraft:rabbit": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "minecraft:cooked_rabbit": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "naturalist:duck": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "naturalist:cooked_duck": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "naturalist:venison": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "naturalist:cooked_venison": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:icicle_fish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "gofish:lilyfish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "gofish:matrix_fish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 2,
+    "sellAmount": 3
+  },
+  "gofish:seaweed_eel": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "gofish:slimefish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "gofish:snowball_fish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 7
+  },
+  "gofish:terrafish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "gofish:carrot_carp": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "gofish:oakfish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "gofish:blackstone_trout": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:grilled_blackstone_trout": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 4
+  },
+  "gofish:grilled_blackstone_deluxe": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 2
+  },
+  "gofish:gilded_blackstone_carp": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:smokey_salmon": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:soul_salmon": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 4
+  },
+  "gofish:magma_cod": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:basalt_bass": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "gofish:obsidian_halibut": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "gofish:endfish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "gofish:endfish_and_chorus": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 4
+  },
+  "gofish:chorus_cod": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:dragonfish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:omega_floater": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:portal_puffer": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:lunarfish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "gofish:galaxy_starfish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "gofish:starry_salmon": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "gofish:nebula_swordfish": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 8
+  },
+  "gofish:aquatic_astral_stew": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 2
+  },
+  "gofish:rainy_bass": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "gofish:steamed_bass": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:cloudy_crab": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "gofish:thundering_bass": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:smoked_cloudy_crab": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "gofish:blizzard_bass": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 7
+  },
+  "minecraft:apple": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 32
+  },
+  "vinery:cherry": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 32
+  },
+  "minecraft:paper": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "minecraft:sugar": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 3,
+    "sellAmount": 64
+  },
+  "bakery:strawberry_jam": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 4
+  },
+  "bakery:glowberry_jam": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 4
+  },
+  "bakery:sweetberry_jam": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 4
+  },
+  "bakery:apple_jam": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 6,
+    "sellAmount": 4
+  },
+  "bakery:chocolate_jam": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 8,
+    "sellAmount": 3
+  },
+  "betterend:end_fish_raw": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 6
+  },
+  "betterend:end_fish_cooked": {
+    "currency": "minecraft:emerald",
+    "sellPrice": 1,
+    "sellAmount": 5
+  }
+}

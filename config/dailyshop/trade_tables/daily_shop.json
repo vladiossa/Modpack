@@ -1,0 +1,52 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 28
+  },
+  "pool": [
+    {
+      "value": "one",
+      "weight": 1.0
+    },
+    {
+      "value": "two",
+      "weight": 1.0
+    },
+    {
+      "value": "three",
+      "weight": 1.0
+    },
+    {
+      "value": "four",
+      "weight": 1.0
+    },
+    {
+      "value": "five",
+      "weight": 1.0
+    },
+    {
+      "value": "six",
+      "weight": 1.0
+    },
+    {
+      "value": "seven",
+      "weight": 1.0
+    },
+    {
+      "value": "eight",
+      "weight": 1.0
+    },
+    {
+      "value": "nine",
+      "weight": 1.0
+    },
+    {
+      "value": "ten",
+      "weight": 1.0
+    },
+    {
+      "value": "spawn_eggs",
+      "weight": 1.0
+    }
+  ]
+}

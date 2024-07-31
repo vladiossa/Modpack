@@ -1,0 +1,87 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "minecraft:emerald",
+    "count": {
+      "type": "constant",
+      "count": 6
+    }
+  },
+  "output": [
+    {
+      "item": "farmersdelight:skillet",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "herbalbrews:tea_kettle",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "immersive_aircraft:propeller",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "minecraft:tnt",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "another_furniture:service_bell",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:blue_birdhouse",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:red_birdhouse",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_gumball_machine",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    },
+    {
+      "item": "luphieclutteredmod:luphie_purple_gumball_machine",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1
+    }
+  ]
+}

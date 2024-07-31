@@ -1,0 +1,31 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "file/Moremons_-_v0.5.3_-_BCG_Patched.zip",
+    "file/MissingMon_v2.7 [A Mythical Encounter].zip",
+    "file/MysticMons_v2.0 BCG Modified.zip",
+    "seasons:seasonal_lush_caves",
+    "file/Whimscape_1.20-1.20.1_r1.zip",
+    "Moonlight Mods Dynamic Assets",
+    "file/FreshAnimations_v1.9.2.zip",
+    "file/FA+All_Extensions-v1.4.zip",
+    "convenientdecor:hydrated_farmland",
+    "file/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
+    "file/Create Simple Storage 2.1.zip",
+    "betterbeds:fancyconnectedbeds",
+    "file/JourneyMon-NoVanilla.zip",
+    "file/Cobblemon Icons v2.6.zip",
+    "file/Vivillon Pride Patterns v1.0.zip",
+    "file/BCG+ Texture Pack.zip",
+    "file/BCG+ Compat Pack.zip",
+    "file/BCG+ Datapack.zip",
+    "file/BCG+ Sound Pack.zip",
+    "file/BCG+ x Whimscape Compat Pack.zip",
+    "file/Serified Font v1.1 f1-34.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  }
+}

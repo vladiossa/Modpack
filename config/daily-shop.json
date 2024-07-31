@@ -1,0 +1,3089 @@
+{
+  "trades-amount": 60,
+  "trades": {
+    "minecraft:oak_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:spruce_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:birch_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:jungle_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:acacia_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:cherry_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:dark_oak_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:mossy_glowshroom_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:pythadendron_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:cherry_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:kiwi_tree_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:hydralux_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:lucernia_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:umbrella_tree_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:tenanea_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:helix_tree_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:dragon_tree_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "betterend:lacugrove_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:apple_tree_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:wheat_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:pumpkin_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:melon_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:torchflower_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:beetroot_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:strawberry_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:oat_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:tomato_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:hops_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:thornbloom_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:kiwi_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:yellow_apricorn_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:red_apricorn_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:green_apricorn_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:pink_apricorn_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:blue_apricorn_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:black_apricorn_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:green_mint_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:cyan_mint_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:vivichoke_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:white_mint_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:pink_mint_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:blue_mint_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cozy:tomato_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:red_grape_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:white_grape_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:savanna_grape_seeds_red": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:savanna_grape_seeds_white": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:taiga_grape_seeds_red": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:taiga_grape_seeds_white": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:jungle_grape_seeds_red": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:jungle_grape_seeds_white": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:blaze_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:axolotl_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:frog_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:chicken_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:cow_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:creeper_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:drowned_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:enderman_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:evoker_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:ghast_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:guardian_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:hoglin_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:husk_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:magma_cube_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:pillager_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:piglin_brute_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:piglin_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:pig_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:sheep_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:shulker_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:skeleton_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:slime_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:stray_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:squid_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:spider_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:vindicator_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:witch_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:wither_skeleton_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:zombified_piglin_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:white_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:orange_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:magenta_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:light_blue_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:yellow_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:lime_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:pink_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:gray_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:light_gray_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:cyan_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:purple_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:blue_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:brown_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:green_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:red_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:black_dye": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chimes:carved_bamboo_chimes": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chimes:bamboo_chimes": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chimes:iron_chimes": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chimes:copper_chimes": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chimes:amethyst_chimes": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chimes:glass_bells": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:net_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:friend_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 5,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:premier_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 5,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:beast_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:park_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:dream_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:safari_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:fast_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:luxury_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 5,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:heal_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 5,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:cherish_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 5,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:heavy_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:level_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:dusk_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:lure_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:timer_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:moon_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:nest_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:sport_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:dive_ball": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:sheep_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:cow_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:pig_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:squid_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:chicken_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:fox_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:snow_fox_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:ocelot_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:panda_plushie": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_13": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_cat": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_blocks": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_chirp": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_far": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_mall": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_mellohi": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_stal": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_strad": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_ward": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_11": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_wait": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_otherside": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_relic": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_5": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_pigstep": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bitsandchisels:iron_chisel": {
+      "currency": "clutter:golden_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bitsandchisels:diamond_chisel": {
+      "currency": "clutter:golden_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:slope": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:steep_slope": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:dash_panel": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:auto_mechanic_table": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:automobile_assembler": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:botanist_workbench": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:glassblower": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:carpenters_table": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:loom_table": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:mason_table": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:alchemy_bench": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:tinkering_table": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:tube_tv": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:towel": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:toilet": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:clock": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:street_sign": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:cake_stand": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:breadbox": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:tray": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:bread_crate": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:chocolate_box": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:tool_rack": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:painting": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:hearth": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:chocolate_box": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:typewriter_iron": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:typewriter_copper": {
+      "currency": "clutter:silver_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:note_paper": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:table_sign": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:storage_pot": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:flower_box": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:flower_pot": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:wine_box": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:basket": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "a_man_with_plushies:plush_box": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "a_man_with_plushies:golden_plush_box": {
+      "currency": "clutter:silver_coin",
+      "price": 45,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:green_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:red_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:yellow_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:light_gray_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:orange_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:blue_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:pink_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:lime_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:allerts_umbrella": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:yellow_raincoat": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:red_raincoat": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:blue_raincoat": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:yellow_rain_boots": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:red_rain_boots": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:blue_rain_boots": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:yellow_rain_hat": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:red_rain_hat": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:blue_rain_hat": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:yellow_plastic_shovel": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:red_plastic_shovel": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:blue_plastic_shovel": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:leaf_pile": {
+      "currency": "clutter:silver_coin",
+      "price": 8,
+      "amount": 16,
+      "rarity": 1
+    },
+    "convenientdecor:yellow_leaf_pile": {
+      "currency": "clutter:silver_coin",
+      "price": 8,
+      "amount": 16,
+      "rarity": 1
+    },
+    "convenientdecor:orange_leaf_pile": {
+      "currency": "clutter:silver_coin",
+      "price": 8,
+      "amount": 16,
+      "rarity": 1
+    },
+    "convenientdecor:cherry_leaf_pile": {
+      "currency": "clutter:silver_coin",
+      "price": 8,
+      "amount": 16,
+      "rarity": 1
+    },
+    "convenientdecor:flowering_azalea_leaf_pile": {
+      "currency": "clutter:silver_coin",
+      "price": 8,
+      "amount": 16,
+      "rarity": 1
+    },
+    "convenientdecor:pitchfork": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "convenientdecor:watering_can": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:candy_cane_block": {
+      "currency": "clutter:silver_coin",
+      "price": 8,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:candy_cane": {
+      "currency": "clutter:silver_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:gingerbread_cookie": {
+      "currency": "clutter:silver_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:eggnog": {
+      "currency": "clutter:silver_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:ginger_flower": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_white": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_red": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_yellow": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_blue": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_prismatic": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:wreath": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:snow_globe": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:sled_oak": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:sled_cherry": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:red_candy_cane": {
+      "currency": "clutter:silver_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:green_candy_cane": {
+      "currency": "clutter:silver_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:blue_candy_cane": {
+      "currency": "clutter:silver_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:red_santa_hat": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:blue_santa_hat": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:white_scarf": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:red_scarf": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:green_scarf": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:blue_scarf": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:rainbow_scarf": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:snowguy": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:snowball_wall": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:red_gift_box": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:yellow_gift_box": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:blue_gift_box": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:green_gift_box": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "winterly:white_gift_box": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:oak_trellis": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:spruce_trellis": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:birch_trellis": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:dark_oak_trellis": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:cherry_trellis": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:oak_blinds": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:spruce_blinds": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:birch_blinds": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:dark_oak_blinds": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:cherry_blinds": {
+      "currency": "clutter:silver_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:oak_picture_frame": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:spruce_picture_frame": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:birch_picture_frame": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:dark_oak_picture_frame": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:cherry_picture_frame": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:hanging_pot": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:bookstack": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:lamp_bamboo": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:lamp_jar": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:lamp_candleabra": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:lamp_candleabra_blue": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:lamp_candleabra_pink": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:lamp_candleabra_white": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:lamp_candleabra_yellow": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "beautify:botanist_workbench": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:lettuce_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:cotton_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "farmersdelight:cabbage_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "farmersdelight:tomato_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "supplementaries:flax_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "hamsters:hamster_spawn_egg": {
+      "currency": "clutter:golden_coin_stack",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "hamsters:hamster_wheel": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "niftycarts:supply_cart": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "niftycarts:plow": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "niftycarts:animal_cart": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "farmersdelight:onion": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "farmersdelight:rice": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:artichoke_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:asparagus_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:barley_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:basil_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:bellpepper_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:blackbean_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:blackberry_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:blueberry_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:broccoli_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:cabbage_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:cantaloupe_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:cauliflower_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:celery_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:chile_pepper_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:coffee_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:corn_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:cranberry_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:cucumber_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:currant_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:eggplant_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:elderberry_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:garlic_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:ginger_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:grape_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:greenbean_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:greenonion_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:honeydew_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:hops_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:kale_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:kiwi_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:leek_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:lettuce_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:mustard_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:oat_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:olive_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:onion_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:peanut_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:pepper_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:pineapple_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:radish_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:raspberry_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:rhubarb_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:rice_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:rutabaga_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:saguaro_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:soybean_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:spinach_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:squash_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:strawberry_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:sweetpotato_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:tea_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:tomatillo_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:tomato_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:turmeric_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:turnip_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:vanilla_seeds": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:yam_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:zucchini_seed": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:almond_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:apple_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:apricot_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:avocado_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:banana_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:cashew_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:cherry_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:coconut_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:date_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:dragonfruit_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:fig_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:grapefruit_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:kumquat_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:lemon_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:lime_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:mango_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:nectarine_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:nutmeg_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:orange_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:peach_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:pear_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:pecan_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:persimmon_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:plum_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:starfruit_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:walnut_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "croptopia:cinnamon_sapling": {
+      "currency": "clutter:silver_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_mushroom_tv": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_general_store_cabinet": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_antique_sewing_machine": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_antique_book_stand": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_antique_library_books": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_art_academy_box_of_paint": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_assorted_jam_jars": {
+      "currency": "clutter:silver_coin",
+      "price": 26,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_black_cat_plant_pot": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_red_armchair": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_yellow_armchair": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_blue_armchair": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_pink_armchair": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_strawberry_armchair": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_black_cat_armchair": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_sweetheart_kitchen_sink": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_cat_kitchen_sink": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_mermaid_dresser": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_pink_glowshroom_terrarium": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_mushroom_terrarium": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_empty_bulletin_board": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_bulletin_board": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_briefcase": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_rovers_briefcase": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_bunny_book_ends": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_cardboard_box_closed": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_cardboard_box_filled": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_cardboard_box_open": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_china_cabinet": {
+      "currency": "clutter:silver_coin",
+      "price": 26,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_classic_radio": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_cluttered_seltzer_cans": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_dorado_cabinet": {
+      "currency": "clutter:silver_coin",
+      "price": 26,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_envelope_stack": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_glowing_moon": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_hanging_dish_towel": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_hanging_plant_a": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_hanging_plant_b": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_honeycomb_lamp": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_jam_jar_pyramid": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_mini_jam_jar_cube": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_lunar_observatory_basket_of_papers": {
+      "currency": "clutter:silver_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_lunar_observatory_globe": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_lunar_observatory_jars": {
+      "currency": "clutter:silver_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_mini_cactus_set": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_mini_hanging_terrariums": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_moon_string": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_nightstand_knick_knacks": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_office_supplies_clutter": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_open_book": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_open_book_stack": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_paper_stack": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_filled_picnic_basket": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_picnic_basket": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_pink_and_gold_moon_decor": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_salt_and_pepper_shakers": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_scattered_papers": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_sewing_clutter": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_short_book_stack": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_sketchbook": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_sketchbook_stack": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_sliced_bread": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_small_bookcase": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_stack_of_small_books": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_small_cauldron_set": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_tall_bookstack": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_vial_stand": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_yellow_notepad": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_cluttered_cat_mugs": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_row_of_small_pastel_books": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_orange_cat_plant_pot": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_tea_kettle": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_wedding_arch": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_baking_set_a": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_star_string": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_heart_cake": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_coffee_grinder": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_retro_cafe_shelf": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_rovers_mug": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_pastel_wardrobe": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_retro_pink_fridge": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_analog_kitchen_scale": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_glass_jars": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_green_gumball_machine": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_purple_gumball_machine": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_pink_spool_of_thread": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_green_spool_of_thread": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_paint_water_jar": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_pancake_stack": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_potion_shelf": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_sewing_table_clutter": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_pastry_display_case": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_ham_sandwich": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_stack_of_ham_sandwiches": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_drying_herbs": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_wine_bottles": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_plant_jar": {
+      "currency": "clutter:silver_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_empty_small_jars": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_handheld_sea_gem_lantern": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_plated_chocolate_croissant": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_plated_croissant": {
+      "currency": "clutter:silver_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_plated_blueberry_muffin": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_plated_cinnamon_bun": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_empty_plate": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_small_jars_of_tea_leaves": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_bunny_garland": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_black_cat_garland": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_heart_garland": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_sunflower_garland": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_blossom_garland": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_antique_map": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_blue_record_player": {
+      "currency": "clutter:silver_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_yellow_record_player": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_pink_record_player": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_brown_record_player": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_retro_yellow_fridge": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_retro_green_fridge": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_retro_white_fridge": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_retro_black_fridge": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_drying_herb_garland": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_hanging_pottery_shelves": {
+      "currency": "clutter:silver_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_hanging_plant_shelves": {
+      "currency": "clutter:silver_coin",
+      "price": 16,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_antique_lamp": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_polaroid_camera": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_polaroid_garland_a": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_polaroid_garland_b": {
+      "currency": "clutter:silver_coin",
+      "price": 12,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_polaroids_a": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:luphie_polaroids_b": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:plant_ladder": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:pink_bicycle": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:blue_bicycle": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:purple_bicycle": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:yellow_bicycle": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:cute_pink_bicycle": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:cute_blue_bicycle": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:cute_purple_bicycle": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:cute_yellow_bicycle": {
+      "currency": "clutter:silver_coin",
+      "price": 22,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:blue_birdhouse": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:red_birdhouse": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:unpainted_birdhouse": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:rubiks_cube": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:pastel_rubiks_cube": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:scrambled_rubiks_cube": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:scrambled_pastel_rubiks_cube": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:cluttered_tarrey_town_wood_stove": {
+      "currency": "clutter:silver_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "luphieclutteredmod:tarrey_town_stove": {
+      "currency": "clutter:silver_coin",
+      "price": 18,
+      "amount": 1,
+      "rarity": 1
+    },
+    "exposure:camera": {
+      "currency": "clutter:silver_coin",
+      "price": 24,
+      "amount": 1,
+      "rarity": 1
+    },
+    "exposure:black_and_white_film": {
+      "currency": "clutter:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "exposure:color_film": {
+      "currency": "clutter:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    }
+  }
+}
